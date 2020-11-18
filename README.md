@@ -1,3 +1,5 @@
 # Azhar Khan
 
-Full Stack Developer | dotnet | Angular | Azure
+**Full Stack Developer | .Net Angular | Azure AWS | Microservices**
+
+
